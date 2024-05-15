@@ -1,0 +1,15 @@
+{
+	"name": "go-eduhub-1.1",
+	"course": "Web Application",
+	"title": "Go EduHub 1.1",
+	"order": 1,
+	"topics": [
+		"gin"
+	],
+	"image": "golang-database",
+	"command": "go test",
+	"totalTestCase": 12,
+	"metadata": {
+		"type": "live-coding"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"name": "web-app-assignment-1",
+	"course": "Web Application",
+	"title": "Assignment 1 - Task Tracker Plus",
+	"order": 1,
+	"topics": [
+		"gin",
+		"gorm",
+		"postgres"
+	],
+	"image": "golang-database",
+	"command": "go test",
+	"totalTestCase": 25,
+	"metadata": {
+		"type": "assignment"
+	}
+}

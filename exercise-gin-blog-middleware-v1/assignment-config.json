@@ -1,0 +1,17 @@
+{
+	"name": "exercise-gin-blog-middleware",
+	"course": "Web Application",
+	"title": "Blog with Gin Framework 2",
+	"order": 2,
+	"topics": [
+		"golang",
+		"gin",
+		"json"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 17,
+	"metadata": {
+		"type": "exercise"
+	}
+}

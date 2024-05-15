@@ -1,0 +1,16 @@
+{
+	"name": "http-client-cp",
+	"course": "Dasar Pemrograman Backend",
+	"title": "HTTP Client CP",
+	"order": 1,
+	"topics": [
+		"http",
+		"client"
+	],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}

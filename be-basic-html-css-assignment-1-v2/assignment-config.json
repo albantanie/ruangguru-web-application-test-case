@@ -1,0 +1,13 @@
+{
+	"name": "be-basic-html-css-assignment-1",
+	"course": "Basic Frontend Web Development With HTML \u0026 CSS",
+	"title": "HTML CSS Assignment 1",
+	"order": 2,
+	"topics": null,
+	"image": "jest-html-css",
+	"command": "npm run test",
+	"totalTestCase": 8,
+	"metadata": {
+		"type": "assignment"
+	}
+}
